@@ -1,0 +1,1 @@
+This program can remove all dir named by the second argument belong to the dir named by the first argument.
